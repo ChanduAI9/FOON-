@@ -1,0 +1,16 @@
+O	onion
+S	whole
+O	knife
+M	chop
+O	onion
+S	ring shaped
+O	knife
+\\
+O	bowl
+S	empty
+O	wheat flour
+S	in	[cup]
+M	pour
+O	bowl
+S	contains	{wheat flour}
+\\

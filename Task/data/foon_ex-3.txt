@@ -1,0 +1,32 @@
+o bowl
+s empty
+o flour
+s in bag
+m pour
+o bowl
+s contains flour
+\
+o sugar
+s in packet
+o bowl
+s contains flour
+m add
+o bowl
+s contains flour and sugar
+\
+o egg
+s whole
+o bowl
+s contains flour and sugar
+m crack
+o bowl
+s contains flour, sugar, and egg
+\
+o oven
+s empty
+o dough
+s raw
+m bake
+o oven
+s contains baked dough
+\

@@ -1,0 +1,42 @@
+o onion
+s whole
+o knife
+m chop
+o onion
+s chopped
+o knife
+\
+o tomato
+s whole
+o knife
+m slice
+o tomato
+s sliced
+o knife
+\
+o pan
+s empty
+o oil
+s in bottle
+m pour
+o pan
+s contains oil
+\
+o onion
+s chopped
+o tomato
+s sliced
+o pan
+s contains oil
+m fry
+o pan
+s contains fried onions and tomatoes
+\
+o wheat flour
+s in cup
+o water
+s in glass
+m mix
+o dough
+s formed
+\

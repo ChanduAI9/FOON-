@@ -1,0 +1,40 @@
+o potato
+s whole
+o peeler
+m peel
+o potato
+s peeled
+o peeler
+\
+o potato
+s peeled
+o knife
+m slice
+o potato
+s sliced
+o knife
+\
+o pan
+s empty
+o oil
+s in bottle
+m pour
+o pan
+s contains oil
+\
+o potato
+s sliced
+o pan
+s contains oil
+m fry
+o pan
+s contains fried potatoes
+\
+o salt
+s in shaker
+o pan
+s contains fried potatoes
+m sprinkle
+o pan
+s contains seasoned fried potatoes
+\
